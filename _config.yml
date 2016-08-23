@@ -1,0 +1,28 @@
+name: 'Ames Smith, Attorney at Law'
+favicon: null
+layout_spectrum: 0.38033591443672776
+typography_spectrum: 0.4443785944022238
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.031822980381548405
+  lightness: 0.7390523867215961
+  saturation: 0.9754891346674412
+  rhythmicContrast: 0.09195500402711332
+purpose: []
