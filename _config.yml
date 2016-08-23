@@ -1,7 +1,7 @@
 name: 'Ames Smith, Attorney at Law'
 favicon: null
-layout_spectrum: 0.38033591443672776
-typography_spectrum: 0.4443785944022238
+layout_spectrum: 0.38459
+typography_spectrum: 0.75681
 title: 'Ames Smith, Attorney at Law'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.031822980381548405
+  brandStrength: 0.75
   lightness: 0.7390523867215961
-  saturation: 0.9754891346674412
-  rhythmicContrast: 0.09195500402711332
+  saturation: 0.9375
+  rhythmicContrast: 0
 purpose: []
